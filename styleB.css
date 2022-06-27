@@ -1,0 +1,124 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #FFED89;
+}
+
+h1{
+	color: #978F25;
+	margin-top: 5px;
+}
+
+#menu a:link, #menu a:visited {
+	text-decoration: none;
+	padding: 10px;
+	color: black;
+}
+#menu a:hover{
+	background: #FFED89;
+	color: #226887;
+}
+#menu a:active{
+	color:red;
+	background:#FFED89;
+}
+
+#cabecalho{
+	padding: 5px;
+	text-align: center;
+}
+
+#menu{
+	width: 960px;
+	margin: 0px auto;
+	background: #D0C425;
+	padding: 10px;
+	text-align: center;
+	font-size: 1.8em;
+	color: #226887;
+}
+
+#conteudo{
+	padding: 10px;
+	width: 960px;
+	margin: 20px auto;
+	text-align: justify;
+
+}
+
+#conteudo2{
+	border: 2px solid black;
+	padding: 10px;
+	width: 960px;
+	margin: 10px auto;
+}
+
+#conteudo2 a:link, #conteudo2 a:visited {
+	text-decoration: none;
+	padding: 3px;
+}
+#conteudo2 a:hover{
+	background: #D0C425;
+}
+#conteudo2 a:active{
+	color:red;
+}
+
+#albuns{
+	border: 2px black solid;
+	width: 960px;
+	margin: 0px auto;
+	text-align: center;
+}
+#albuns a:link, #albuns a:visited {
+	text-decoration: none;
+	padding: 5px;
+	margin: 10px;
+}
+#albuns a:hover{
+	background: #D0C425;
+}
+#albuns a:active{
+	color:red;
+}
+
+#contato{
+	margin: 0 auto;
+	width: 960px;
+	border: 1px solid black;
+	font-size: 1.5em;
+	text-align: center justify;
+	padding: 10px;
+}
+
+#site{
+	text-align: center;
+	font-size: 2em;
+	font-weight: 400;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+#site a:link, #site a:visited {
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+	margin: 10px;
+}
+#site a:hover{
+	background: #D2D230;
+	color: #226887;
+}
+#site a:active{
+	color:red;
+}
+
+
+#rodape{
+	width: 960px;
+	margin: 0px auto;
+	text-align: center;;
+}
