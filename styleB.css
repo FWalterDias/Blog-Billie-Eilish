@@ -2,7 +2,6 @@
 *{
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
 }
 
 body{
@@ -69,6 +68,15 @@ main a:hover{
 }
 main a:active{
 	color:#ff0000;
+}
+#articleMidias{
+	display: flex;
+	flex-direction: column;
+	row-gap: 45px;
+}
+#tittleVideo{
+	font-size: 2em;
+	color: #857e25;
 }
 
 footer{
