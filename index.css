@@ -1,0 +1,132 @@
+/*---------------------INDEX----------------------*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #FFED89;
+}
+
+h1{
+	color: #978F25;
+	margin-top: 5px;
+}
+
+nav a:link, nav a:visited {
+	text-decoration: none;
+	padding: 10px;
+	color: #000000;
+}
+nav a:hover{
+	background: #FFED89;
+}
+nav a:active{
+	color:#ff0000;
+	background:#FFED89;
+}
+nav{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 960px;
+	background: #D0C425;
+	padding: 0 10px;
+	font-size: 1.8em;
+	column-gap: 30px;
+}
+
+header{
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+}
+
+main{
+	border: solid 1px #000000;
+	padding: 10px;
+	width: 960px;
+	margin: 20px auto;
+	text-align: justify;
+}
+
+p{
+	margin: 15px 0;
+	line-height: 20px;
+}
+
+main a:link, main a:visited {
+	text-decoration: none;
+	padding: 2px;
+	color: #000000;
+}
+main a:hover{
+	background: #D0C425;
+	color: #000000;
+}
+main a:active{
+	color:#ff0000;
+}
+#articleMidias{
+	display: flex;
+	flex-direction: column;
+	row-gap: 45px;
+}
+#tittleVideo{
+	font-size: 2em;
+	color: #857e25;
+}
+
+footer{
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 20px;
+}
+/*----------------------INDEX-----------------------*/
+
+/*----------------------DISCOGRAFIA-----------------------*/
+/*#discografia {
+	display: flex;
+	flex-direction: column;   LINHAS DE CODIGO ECONOMIZADAS
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}*/
+#tituloAlbuns{
+	text-align: center;
+}
+#albuns{
+	padding: 10px;
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    align-items: center;
+}
+/*----------------------DISCOGRAFIA-----------------------*/
+
+/*----------------------CONTATO-----------------------*/
+
+#contato{
+	font-size: 1.3em;
+	display: flex;
+	flex-direction: column;
+	row-gap: 30px;
+}
+
+#siteOficial{
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+#siteOficial a:hover{
+	background: #d2d230b9;
+	color: #000000;
+}
+#siteOficial a:active{
+	color:#ff0000;
+}
