@@ -3,20 +3,20 @@
 # Blog Billie Eilish
 Projeto criando para praticar os conceitos de HTML Semantica e CSS FlexBox
 
-### Acesso em: https://fwalterdias.github.io/Blog-Billie-Eilish-2/
+### Acesso em: https://fwalterdias.github.io/Blog-Billie-Eilish
 
 ---------------
 ### Home
-![home](https://github.com/FWalterDias/Blog-Billie-Eilish-2/assets/100762742/5213bc7d-5101-463e-a3cd-066c8090e9d6)
+![home](https://github.com/FWalterDias/Blog-Billie-Eilish/assets/100762742/efd0205b-1e4d-45f3-9e15-92a0f7ad1f77)
 
 ---------------
 ### Biografia
-![biografia](https://github.com/FWalterDias/Blog-Billie-Eilish-2/assets/100762742/a1c15ceb-52b5-4190-ad71-099ab0c0baca)
+![biografia](https://github.com/FWalterDias/Blog-Billie-Eilish/assets/100762742/acc6a489-dc35-412b-bb65-1fb467fd4520)
 
 ---------------
 ### Discografia
-![discogrfia](https://github.com/FWalterDias/Blog-Billie-Eilish-2/assets/100762742/60d023f8-11ba-4391-8531-bac30b16a26c)
+![discogrfia](https://github.com/FWalterDias/Blog-Billie-Eilish/assets/100762742/170af031-497b-4303-a6d6-a2680f966945)
 
 ---------------
 ### Contato
-![contatoo](https://github.com/FWalterDias/Blog-Billie-Eilish-2/assets/100762742/7ed2772e-b605-49dd-bd48-0c31ee708039)
+![contatoo](https://github.com/FWalterDias/Blog-Billie-Eilish/assets/100762742/ce785a6f-bfde-453c-8d6e-e9bf652f7511)
