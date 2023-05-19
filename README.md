@@ -3,7 +3,7 @@
 # Blog Billie Eilish
 Projeto criando para praticar os conceitos de HTML Semantica e CSS FlexBox
 
-### Acesso em: https://fwalterdias.github.io/Blog-Billie-Eilish
+### Disponível em: https://fwalterdias.github.io/Blog-Billie-Eilish
 
 ---------------
 ### Home
